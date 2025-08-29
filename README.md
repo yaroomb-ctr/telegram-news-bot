@@ -38,5 +38,8 @@ python bot.py
 Лицензия
 MIT License
 
+Пример бота : <a href="https://t.me/fiasktt_bot">Новостной бот</a>
+ 
+
 Автор: yaroomb-ctr
 
